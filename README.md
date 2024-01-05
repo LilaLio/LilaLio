@@ -37,6 +37,7 @@
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Social Engineery](https://img.shields.io/badge/Social_engineering-FFFFFF?style=for-the-badge&logo=github&logoColor=black)
 
 ### IDEs and Tools 🛠:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
