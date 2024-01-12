@@ -1,48 +1,65 @@
-# Bad luck for you all my repos are private 😓
+ <h1 align="center">Bad luck for you all my repos are private 😓</h2>
 
-<p>&nbsp;<img align="center" src="https://readmestats.999857.xyz/api?username=LilaLio&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" /></p>
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=LilaLio&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" />
+</p>
 
-## 🔨 Languages & Frameworks & Skills ⭐️:
+<h2 align="center">🔨 Languages & Frameworks & Skills ⭐️</h2>
 
-### Web Design & Development 💻:
-#### 🙈 - Frontend:
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-
-#### 🙉 - Backend:
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![◾️](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-
-#### 🙊 - Database:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🐵 - Hosting Services and Web Tools:
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### DevOps ♾️:
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### Others:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
-![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=for-the-badge&logo=cpp2&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### IDEs and Tools 🛠:
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![InteliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <th>🙈 Frontend</th>
+      <th>🙉 Backend</th>
+      <th>🙊 Database</th>
+      <th>🐵 Hosting Services and Web Tools</th>
+      <th>DevOps ♾️</th>
+      <th>Others</th>
+      <th>IDEs and Tools 🛠</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white" alt="JavaScript">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+        <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?logo=react&logoColor=white" alt="ReactJS">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white" alt="Express.js">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB">
+        <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" alt="MySQL">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=logo=netlify&logoColor=white" alt="Netlify">
+        <img src="https://img.shields.io/badge/Firebase-039BE5?style=logo=Firebase&logoColor=white" alt="Firebase">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=logo=vite&logoColor=white" alt="Vite">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white" alt="Shell Script">
+        <img src="https://img.shields.io/badge/Git-E44C30?logo=git&logoColor=white" alt="Git">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white" alt="C">
+        <img src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white" alt="C++">
+        <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white" alt="CLion">
+        <img src="https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&color=525252" alt="Google Colab">
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white" alt="VSCode">
+        <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+        <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white" alt="Trello">
+        <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion">
+      </td>
+    </tr>
+  </table>
+</div>
