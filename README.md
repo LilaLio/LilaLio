@@ -1,4 +1,4 @@
- <h1 align="center">Bad luck for you all my repos are private 😓</h2>
+ <h1 align="center">Bad luck for you all my repos are private 😓</h1>
 
 <p align="center">
   <img src="https://readmestats.999857.xyz/api?username=LilaLio&show_icons=true&locale=en&theme=tokyonight" alt="LilaLio" />
